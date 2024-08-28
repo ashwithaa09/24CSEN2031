@@ -1,0 +1,19 @@
+// Online C compiler to run C program online
+#include <stdio.h>
+
+int main() {
+  int a;
+   printf("enter an integer (positve or negitive): ");
+   scanf ("%d" , &a);
+if (a>0 ) {
+    printf("the number %d is positive", a);
+    if (a %2 == 0)
+    printf ("\nthe number is even");
+    else
+    printf ("\nthe number is odd");
+}
+else if (a < 0)
+
+
+    return 0;
+}
