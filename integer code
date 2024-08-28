@@ -17,3 +17,12 @@ else if (a < 0)
 
     return 0;
 }
+
+
+
+
+enter an integer (positve or negitive): 579
+the number 579 is positive
+the number is odd
+
+=== Code Execution Successful ===
